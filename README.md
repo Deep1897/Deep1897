@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Deep Raj Singh</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h5 align="center"> I am passionate about programmin, solving problem and creating a pleasent software</h5>
+<p align left> <img style="width:200px;height:200px" src="https://thumbs.dreamstime.com/b/programmer-work-web-development-computer-concept-coding-programming-scripts-software-developer-cartoon-flat-210251059.jpg"/></p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1897&label=Profile%20views&color=0e75b6&style=flat" alt="deep1897" /> </p>
 

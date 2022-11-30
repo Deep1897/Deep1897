@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://deep1897.github.io/](https://deep1897.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JAVA**
+- 💬 Ask me about **HTML,CSS,Java,JavaScript**
 
 - 📫 How to reach me **deeprajsingh1897@gmail.com**
 

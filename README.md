@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep1897" alt="deep1897" /></a> </p>
 
-- 🔭 My first Project [PRIME-VIDEO](https://github.com/Deep1897/PRIME-VIDEO](https://friendly-heliotrope-d4f718.netlify.app/)
+- 🔭 My first Project [PRIME-VIDEO](https://friendly-heliotrope-d4f718.netlify.app/)
 
 - 🌱 I’m currently learning **MASAI SCHOOL- Full Stack Web Development**
 
-- 🔭 My second Project [PharmEasy](https://github.com/basilaslam/PharmEasy-Clone](https://magical-rolypoly-cad4ee.netlify.app/)
+- 🔭 My second Project [PharmEasy](https://magical-rolypoly-cad4ee.netlify.app/)
 
 - 🤝 My third Project [supermarket](https://github.com/Deep1897/supermarket)
 
